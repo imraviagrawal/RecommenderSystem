@@ -1,6 +1,7 @@
 # RecommenderSystem
 Implementation of RBM and Autoencoder on movielen 100k dataset 
-Restricted Boltzman Machine and Autoencoder both are implemented on torch deep learning.
+
+Restricted Boltzman Machine and Autoencoder both are implemented on torch deep learning library.
 
 There are few reading included in the readings folders.
 
